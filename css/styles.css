@@ -1,9 +1,17 @@
 h1 {
     color: darkred;
+<<<<<<< HEAD
 }
 h2 {font-style: italic;
     color: red;
   }
+=======
+  }
+  h2 {
+    font-style: italic;
+    color: red;
+  }
+>>>>>>> red_theme
   p {
     color: crimson;
   }
